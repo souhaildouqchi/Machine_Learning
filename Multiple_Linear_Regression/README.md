@@ -1,2 +1,3 @@
+# Multiple Linear Regression Model
 
-model that predicts the profit based diffrent factors to tell the caplist funds wich type of companies to invest in
+A multiple linear regression model that predicts the profit based on different factors to tell the capitalist funds which type of companies to invest in
